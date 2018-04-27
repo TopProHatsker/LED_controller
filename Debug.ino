@@ -312,7 +312,7 @@ void lightOff(){
 
 
 
-int intIn(){                                      //убрать костыль!!!!!!!!!!!!
+int intIn(){                               
     
     if (Serial.available() > 0){
       val = Serial.parseInt();
