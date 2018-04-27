@@ -31,3 +31,6 @@
 ## RGB лента:
 ![](https://github.com/TopProHatsker/LED_controller/blob/master/20180427_181649.jpg)
 ![](https://github.com/TopProHatsker/LED_controller/blob/master/sm.dark_1.800.jpg)
+
+## Прошивка:
+скетчи [Debug.ino]() и []() (**Должны лежать в одной папке**).
