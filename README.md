@@ -33,4 +33,4 @@
 ![](https://github.com/TopProHatsker/LED_controller/blob/master/sm.dark_1.800.jpg)
 
 ## Прошивка:
-скетчи [Debug.ino]() и []() (**Должны лежать в одной папке**).
+скетчи [Debug.ino](https://github.com/TopProHatsker/LED_controller/blob/master/Debug.ino) и [LED_PC]() (**Должны лежать в одной папке**).
