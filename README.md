@@ -6,6 +6,9 @@
 Длительное нажатие (3 сек) отключает или включает подсветку.
 Короткое включает следующий "режим".
 
+Программируется контроллер через монитор порта с помощю комманд:
+dir
+
 # Сам контроллер:
 ![](https://github.com/TopProHatsker/LED_controller/blob/master/20180427_181451.jpg)
 ![](https://github.com/TopProHatsker/LED_controller/blob/master/20180427_181527.jpg)
