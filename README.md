@@ -30,4 +30,4 @@
  
 ## RGB лента:
 ![](https://github.com/TopProHatsker/LED_controller/blob/master/20180427_181649.jpg)
-![](https://github.com/TopProHatsker/LED_controller/blob/master/248820_6.jpg)
+![](https://github.com/TopProHatsker/LED_controller/blob/master/sm.dark_1.800.jpg)
